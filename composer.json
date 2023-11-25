@@ -1,0 +1,13 @@
+{
+    "name": "openmage-strict/module-reports",
+    "description": "Mage_Reports",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-catalog": "*",
+        "openmage-strict/module-cms": "*",
+        "openmage-strict/module-customer": "*",
+        "openmage-strict/module-sales": "*"
+    }
+}

@@ -1,0 +1,8 @@
+src/app/code/core/Mage/Reports/                                     app/code/core/Mage/Reports/
+src/app/design/adminhtml/default/default/layout/report.xml          app/design/adminhtml/default/default/layout/report.xml
+src/app/design/adminhtml/default/default/template/report/           app/design/adminhtml/default/default/template/report/
+src/app/design/frontend/base/default/layout/reports.xml             app/design/frontend/base/default/layout/reports.xml
+src/app/design/frontend/base/default/template/reports/              app/design/frontend/base/default/template/reports/
+src/app/design/frontend/rwd/default/template/reports/               app/design/frontend/rwd/default/template/reports/
+src/app/etc/modules/Mage_Reports.xml                                app/etc/modules/Mage_Reports.xml
+src/app/locale/en_US/Mage_Reports.csv                               app/locale/en_US/Mage_Reports.csv
